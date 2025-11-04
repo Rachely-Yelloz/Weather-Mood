@@ -20,10 +20,16 @@
         "foregroundImage": "./assets/images/icon.jpg",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.rachel2005.SkyCast"
     },
     "web": {
       "favicon": "./assets/images/icon.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "45238575-5dc4-4f47-8014-fada2d44e726"
+      }
     }
   }
 }
